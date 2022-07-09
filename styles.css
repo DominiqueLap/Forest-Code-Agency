@@ -1,0 +1,68 @@
+.blocpage{
+    width: 900px;
+    margin: auto;
+}
+
+.logo{
+    width: 130px;
+    height: 75px;
+    /*object-fit:contain;*/
+}
+.banniere{
+    width: 900px;
+    height: 250px;
+    object-fit: cover;
+}
+h1{
+    text-align: center;
+}
+h2{
+    padding-left: 15px  ;
+}
+.team1 img{
+    width: 300px;
+    height: auto;
+
+}
+.team2 img{
+
+    width: 300px;
+    height: auto;
+}
+.team1{
+    display: flex;
+ 
+   
+}
+.team2{
+    display: flex;
+}
+.team p{
+    text-align: justify;
+    width: auto;
+}
+.competences{
+    display: flex;
+    justify-content: space-around;
+}
+.competences img{
+    width: 175px;
+    height: 175px;
+    object-fit:contain;
+}
+.inverse{
+    flex-direction: column-reverse;
+}
+footer{
+    height: 75px;
+    background-color:olive;
+display: flex;
+justify-content: space-around;
+}
+footer article {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+}
