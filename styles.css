@@ -59,10 +59,9 @@ footer{
 display: flex;
 justify-content: space-around;
 }
-footer article {
+/*footer article {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     
-}
-}
+}*/
