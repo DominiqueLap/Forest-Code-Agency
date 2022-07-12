@@ -61,3 +61,45 @@ h3{
 /* .section2-titre{
     margin: 15px;
 } */
+
+footer{
+    background-color: olive;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    color: white;
+    font-size: 12px;
+    
+}
+
+     
+.footer-adresse{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  
+}
+.footer-telephone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.footer-mail{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.footer-telephone i{
+    padding-right: 10px;
+}
+.footer-mail i{
+    padding-right: 10px;
+}
+.footer-adresse i{
+    padding-right: 10px;
+}
